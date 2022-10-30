@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Maarbani</h1>
-<h3 align="center">I'm a developer from Lebanon</h3>
+<h3 align="center">I am the owner of NumericSlick Company. I switched careers and started my mobile & web development journey in 2014!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalmaarbani&label=Profile%20views&color=0e75b6&style=flat" alt="bilalmaarbani" /> </p>
 
