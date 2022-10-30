@@ -1,4 +1,4 @@
-## I'm Bilal, owner of NumericSlick company 👨‍💻 full-stack mobile developer 👨‍💻 working since 2014 🚀  
+## I'm Bilal, CEO/Founder of NumericSlick company 👨‍💻 full-stack mobile developer 👨‍💻 working since 2014 🚀  
   
 
 <a href="https://github.com/bilalmaarbani" target="_blank">
