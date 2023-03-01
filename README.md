@@ -21,7 +21,13 @@
 
 
 ### Glad to see you here!  
-With over 9 years of experience in developing custom websites and mobile applications, I excel at building applications from the ground up and elevating existing apps to new heights. My approach involves working closely with clients to understand their unique business needs and customer requirements. I am skilled at transforming ideas into pixel-perfect, responsive UI designs that result in exceptional user experiences. Throughout the entire application lifecycle, I write clean code, troubleshoot and debug applications, perform UI tests, and optimize performance. I also have extensive experience building reliable databases, maintaining legacy systems, and solving database errors and malfunctions. As a team player, I collaborate with other developers to enhance application efficiency and suggest new products or services that can improve the overall performance of a company's database programs.  
+As a skilled developer with over 8 years of experience, I specialize in building bespoke websites and software from scratch, as well as elevating existing apps to a whole new level. I take a client-centered approach, working closely with businesses from the development stage to understand their unique needs and create customized solutions that meet the requirements of their customers.
+
+My expertise in turning ideas into designs and scalable applications has helped businesses grow, maximize turnover, and increase customer satisfaction. I am proficient in a variety of programming languages, including Swift, Objective-C, JavaScript, TypeScript, React, React Native, Prisma, NodeJs, REST, and Databases.
+
+As a Senior IOS Developer and Software Engineer, I have demonstrated a history of working in the telecommunications industry. I hold a Master's degree in Computer Science and am committed to staying up-to-date with the latest technologies and industry trends.
+
+Overall, I am a strong engineering professional with a passion for developing high-quality software solutions that drive business success. Whether you're looking to build a new website or software application from scratch or elevate an existing one, I have the skills and experience to help you achieve your goals.
   
 
 <br/>  
